@@ -1,0 +1,1 @@
+'pincode','phone_number','gst','zone','department','mpos_serial_number','mpos_user_number',
